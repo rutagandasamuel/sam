@@ -1,0 +1,30 @@
+p{
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.first{
+  line-height: 20px;
+  font-size: 30px;
+
+}
+.firstone{
+  font-size: 13px;
+  color: rgb(49, 199, 49);
+}
+.second{
+  color: rgb(194, 9, 9);
+  font-size: 15px;
+  margin-top: 4px;
+}
+.thrid{
+  color: rgb(49, 199, 49);
+  font-size: 15px;
+}
+.thirdone{
+  color: rgb(194, 9, 9);
+  font-size: 15px;
+}
+.top{
+  margin-top: 4px;
+}

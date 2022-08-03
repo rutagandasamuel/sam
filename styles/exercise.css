@@ -1,0 +1,74 @@
+.name,.email{
+  display: block;
+}
+.name{
+  margin-bottom:4px ;
+}
+.thank{
+  display: inline-block;
+  width: 210px;
+  vertical-align: middle;
+}
+.google{
+  text-align: center;
+  font-size: 80px;
+  margin-bottom: 4px;
+}
+p{
+  margin-bottom: 0;
+}
+.box{
+  width: 400px;
+  margin-left: 220px;
+  border: none;
+  border-radius: 12px;
+  border-width: 1px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 8px;
+  box-shadow: 1px 1px 5px rgb(39, 36, 36) ;
+  display: block;
+  margin-bottom: 15px;
+}
+.email2{
+  display: block;
+  margin-bottom: 6px;
+  width: 192px;
+}
+.first{
+  width: 90px;
+  margin-bottom: 4px;
+}
+.second{
+  width: 90px;
+}
+.sign{
+  text-align: center;
+  padding-left: 75px;
+  padding-right: 75px;
+  background-color: blue;
+  color: white;
+  font-size: 14px;
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 4px;
+}
+.pick,.up{
+  display: block;
+}
+.pick{
+  border: none;
+  background-color: rgb(117, 245, 245);
+  margin-bottom: 4px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 227px;
+}
+.up{
+  border: none;
+  background-color:rgb(117, 245, 245) ;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 227px;
+}
